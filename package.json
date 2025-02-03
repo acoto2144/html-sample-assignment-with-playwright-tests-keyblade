@@ -19,6 +19,9 @@
     "@types/node": "^20.11.20"
   },
   "dependencies": {
-    "live-server": "^1.2.2"
+    "install": "^0.13.0",
+    "live-server": "^1.2.2",
+    "packages": "^0.0.8",
+    "to": "^0.2.9"
   }
 }
